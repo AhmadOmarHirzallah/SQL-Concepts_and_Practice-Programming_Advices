@@ -1,4 +1,4 @@
-# SQL-Concepts_and_Practice-Programming_Advices-
+# SQL-Concepts_and_Practice-Programming_Advices
 
 ## Part 1
 <details>
